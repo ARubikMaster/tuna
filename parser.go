@@ -1,5 +1,5 @@
 package main
 
-func parser(tokens []string) error {
+func parser(tokens [][]string) error {
 	return nil
 }
